@@ -12,3 +12,4 @@
 
 #ignore virtual env
 venv/
+idea/
