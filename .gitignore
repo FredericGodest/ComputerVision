@@ -1,0 +1,14 @@
+#Ignore video files
+*.mp4
+*.mov
+*.avi
+
+#Ignore pictures files
+*.png
+
+#Ignore config and weight files
+*.cfg
+*.weights
+
+#ignore virtual env
+venv/
